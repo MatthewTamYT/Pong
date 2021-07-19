@@ -1,6 +1,8 @@
 # Pong
 
+[![Stargazers repo roster for @MatthewTamYT/Pong](https://reporoster.com/stars/MatthewTamYT/Pong)](https://github.com/MatthewTamYT/Pong/stargazers)
 
+[![Forkers repo roster for @MatthewTamYT/Pong](https://reporoster.com/forks/MatthewTamYT/Pong)](https://github.com/MatthewTamYT/Pong/network/members)
 
 ## **Description**
 #### What does the application do?
