@@ -1,4 +1,4 @@
-# Pong
+# :ping_pong: Pong
 
 <p align="center"><img src="https://user-images.githubusercontent.com/87230771/126501539-e754481f-1813-4640-b6c2-636147777c29.jpg" alt="logo" width="400"/>
 
