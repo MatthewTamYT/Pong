@@ -1,5 +1,10 @@
 # Pong
 
+<p align="center"><img src="https://user-images.githubusercontent.com/87230771/126474261-14bf84de-6e86-4fbf-a4f1-55df5210acda.png" alt="drawing" width="700" class="center"/>
+<p align="center"><img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/MatthewTamYT/Pong?logo=GitHub"> 
+<img alt="GitHub" src="https://img.shields.io/github/license/MatthewTamYT/Pong?logo=GitHub">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/MatthewTamYT?color=%23000000&label=Follow%20Me%21&logoColor=%23000000&style=social">
+
 [![Stargazers repo roster for @MatthewTamYT/Pong](https://reporoster.com/stars/MatthewTamYT/Pong)](https://github.com/MatthewTamYT/Pong/stargazers)
 
 [![Forkers repo roster for @MatthewTamYT/Pong](https://reporoster.com/forks/MatthewTamYT/Pong)](https://github.com/MatthewTamYT/Pong/network/members)
