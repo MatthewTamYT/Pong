@@ -15,9 +15,9 @@
 
 ## **Description**
 #### What does the application do?
-The application is a game with the purpose of not touching the walls along the x axis. Two paddles are present and two player battle to win. Both single and multiplayer options are available.
+Pong is a ball game with the purpose of not touching the walls along the x axis. Two paddles are present and two player battle to win. Both single and multiplayer options are available.
 #### What technologies did I use?
-I used Python because it is easy-to-use. It delivers my purpose through straight forward lines of code. I also used an IDE, PyCharm. This is because it has a great project management system and is friendly to beginners (like me)! Besides Python, I used a module called Turtle, which allowed me to make the game with a game engine.
+I used Python 3.9 because it is easy-to-use. It delivers my purpose through straight forward lines of code. I also used an IDE, PyCharm. This is because it has a great project management system and is friendly to beginners (like me)! Besides Python, I used a module called Turtle (Turtle Graphics), which allowed me to make the game with a game engine.
 #### What challenges did I face?
 I faced many challenges. The scoring system was quite confusing and complicated. Besides, I often confuse variables and loops. This caused many errors which I later fixed during the vigorous testing phase. It took a lot of time and debugging. However, I notice that there are still some bugs, so please open an issue if you find them.
 
